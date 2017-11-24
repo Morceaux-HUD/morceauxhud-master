@@ -1,0 +1,2 @@
+Just extract this to your custom folder
+(C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom
